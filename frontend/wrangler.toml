@@ -5,10 +5,10 @@ compatibility_date = "2024-01-15"
 pages_build_output_dir = "dist"
 
 # Service Binding 配置
-//[[services]]
-//binding = "BACKEND"
-//service = "memos-api"
-//environment = "production"
+//原来 [[services]]
+//原来binding = "BACKEND"
+//原来service = "memos-api"
+//原来environment = "production"
 
 
 [[services]]
